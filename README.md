@@ -1,6 +1,6 @@
 <!-- COVER PHOTO -->
 <p align="center">
-  <img src="[YOUR_COVER_IMAGE_URL_HERE](https://media.licdn.com/dms/image/v2/D4D16AQEm3LjtPWhYFg/profile-displaybackgroundimage-shrink_350_1400/B4DZpPsXd3H4AY-/0/1762273625636?e=1763596800&v=beta&t=KaLbQSZmnUAkfq7QqszOqCmGTvj1H-t36B0eyjZZLYs)" alt="Cover Photo" />
+  <img src="cover phot.png" alt="Cover Photo" />
 </p>
 
 # **Md Ashikur Rahman**   
