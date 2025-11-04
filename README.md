@@ -1,81 +1,52 @@
-# Hi, I'm Md Ashikur Rahman 👋
-**Frontend Developer | HTML, CSS, JavaScript, React | Building responsive & modern web applications**
+<!-- COVER PHOTO -->
+<p align="center">
+  <img src="YOUR_COVER_IMAGE_URL_HERE" alt="Cover Photo" />
+</p>
+
+# **Md Ashikur Rahman** 👋  
+### Frontend Developer | HTML · CSS · JavaScript · React  
 
 ---
 
-## 🔹 About Me
-I am a passionate frontend developer focused on creating responsive, user-friendly, and visually appealing web applications.  
-I enjoy transforming design concepts into functional websites and continuously learning modern web technologies.
-
-- 🌍 Location: Pabna, Bangladesh  
-- 💼 Open to: Frontend Development Opportunities & Freelance Projects  
-- 📫 Email: [freelancerashik81@gmail.com](mailto:freelancerashik81@gmail.com)  
-- 🔗 Portfolio: [Your Portfolio Link Here](#)  
-- 🔗 LinkedIn: [Md Ashikur Rahman](https://www.linkedin.com/in/your-linkedin/)  
+## 🔹 About Me  
+I’m a passionate frontend developer based in Pabna, Bangladesh. I focus on building **responsive**, **user‑friendly**, and **modern web applications**. I enjoy turning design concepts into real‑life functioning websites & continuously learning new technologies.
 
 ---
 
-## 🔹 Skills & Tools
+## 🔹 Work  
+Currently working on building scalable web experiences using modern tech stacks, collaborating on frontend architecture, and delivering clean code.
+
+---
+
+## 🔹 Skills  
 **Languages & Frameworks:**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
----
-
-## 🔹 Featured Projects
-
-### 1. Nexter Landing Page
-**Tech:** HTML, CSS  
-**Description:** Modern responsive real estate landing page with semantic HTML and advanced CSS.  
-**Demo:** [Live Demo](#)  
-**Repo:** [GitHub Repo](#)  
-![Nexter Screenshot](#) <!-- replace # with image link -->
-
-### 2. Weather App
-**Tech:** JavaScript, API  
-**Description:** Real-time weather application fetching data from OpenWeather API.  
-**Demo:** [Live Demo](#)  
-**Repo:** [GitHub Repo](#)  
-![Weather App Screenshot](#)
-
-### 3. Portfolio Website
-**Tech:** HTML, CSS, JavaScript  
-**Description:** Fully responsive portfolio showcasing projects, skills, and contact info.  
-**Demo:** [Live Demo](#)  
-**Repo:** [GitHub Repo](#)  
-![Portfolio Screenshot](#)
-
-*(Add more projects as needed)*
+![HTML](https://img.shields.io/badge/HTML5‑E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3‑1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript‑F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React‑61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS‑38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js‑339933?style=for-the-badge&logo=node-dot-js&logoColor=white)  
+![Express](https://img.shields.io/badge/Express.js‑000000?style=for-the-badge&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB‑47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL‑4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
 ---
 
-## 🔹 GitHub Stats & Activity
-![Ashik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashik081&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashik081&layout=compact&theme=radical)
-
-![Ashik's GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=ashik081&theme=react-dark&area=true)
+## 🔹 Social  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn‑0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)  
+[![Twitter](https://img.shields.io/badge/Twitter‑1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER/)  
+[![Website](https://img.shields.io/badge/Portfolio‑FF4D4D?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO_URL/)  
 
 ---
 
-## 🔹 GitHub Trophies
-![Ashik's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ashik081&theme=radical&no-frame=true&column=7&margin-w=5)
+## 🔹 Add‑ons  
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=YOUR_GITHUB_USERNAME)  
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&column=4)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)  
 
 ---
 
-## 🔹 Contact Me
-- 📧 Email: [freelancerashik81@gmail.com](mailto:freelancerashik81@gmail.com)  
-- 🔗 LinkedIn: [Md Ashikur Rahman](https://www.linkedin.com/in/your-linkedin/)  
-- 🌐 Portfolio: [Your Portfolio Link Here](#)
+> **Note:** Replace all `YOUR_…` placeholders with your actual information (cover image URL, GitHub username, LinkedIn link, Twitter link, portfolio link).  
 
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
