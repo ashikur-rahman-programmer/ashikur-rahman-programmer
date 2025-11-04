@@ -1,10 +1,10 @@
 <!-- COVER PHOTO -->
 <p align="center">
-  <img src="cover phot.png" alt="Cover Photo" />
+  <img src="[cover phot.png](https://github.com/ashikur-rahman-programmer/ashikur-rahman-programmer/blob/main/cover%20photo.png)" alt="Cover Photo" />
 </p>
 
 # **Md Ashikur Rahman**   
-### Frontend Developer | HTML · CSS· JavaScript · React · Tailwind · Node js · Express js · Farebase · MongoDB · MySQL
+#### Frontend Developer | HTML · CSS· JavaScript · React · Tailwind · Node js · Express js · Farebase · MongoDB · MySQL
 
 ---
 
