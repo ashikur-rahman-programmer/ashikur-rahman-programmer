@@ -3,14 +3,56 @@
   <img src="./cover%20photo.png" alt="Ashikuir Rahman web developer cover photo" />
 </p>
 
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Frontend+Specialist;Building+Modern+Web+Apps;Future+Full+Stack+Engineer" />
+</p>
+
+---
+
 # **Md Ashikur Rahman**   
-### Frontend Developer | HTML · CSS· JavaScript · React · Tailwind · Node js · Express js · Farebase · MongoDB · MySQL
+### Frontend Developer | HTML · CSS· JavaScript · React · Tailwind · Node js · Express js · Farebase · MongoDB · MySQL || 🚀 **Passionate MERN Stack Developer crafting modern, scalable and user-friendly web applications.**
+
 
 ---
 
 # 💫 About Me
 I’m a passionate frontend developer based in Pabna, Bangladesh. I focus on building **responsive**, **user‑friendly**, and **modern web applications**. I enjoy turning design concepts into real‑life functioning websites & continuously learning new technologies.
 
+- 🎓 Currently learning Web Development at Programming Hero  
+- 💻 Focused on **Frontend & MERN Stack Development**  
+- 🌱 Learning **React, Next.js & Full MERN Stack**  
+- 🎯 Goal: Become a **Professional Full Stack Developer**  
+- 🔥 Love building real-world projects & improving skills daily  
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Frontend
+HTML • CSS • Tailwind • JavaScript • React • Next.js  
+
+### ⚙️ Backend
+Node.js • Express.js  
+
+### 🗄️ Database
+MongoDB • MySQL • Firebase  
+
+### 🎨 UI & Libraries
+DaisyUI • React Router • React Toastify  
+
+### 🧰 Tools
+Git • GitHub • VS Code • Figma • Pixso  
+
+---
+
+## 🎯 Current Activities
+
+- 🔭 Working on **React & Next.js Projects**
+- 🌱 Learning **Full MERN Stack Development**
+- 🚀 Building modern and responsive web applications
+
+---
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/rAaW5Cuk) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ashikmahmud2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdashikurrahman2) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ASHIKMAHMUDOFFICIAL) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:freelancerashik81@gmail.com) 
@@ -29,5 +71,28 @@ I’m a passionate frontend developer based in Pabna, Bangladesh. I focus on bui
 ![](https://github-contributor-stats.vercel.app/api?username=ashikur-rahman-programmer&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
 
 ---
+
+## 🌐 Portfolio
+
+🚀 Coming Soon... (You can add your portfolio link here)
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashikur-rahman-programmer&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+💡 I love turning ideas into real-world web applications and continuously learning new technologies.
+
+---
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 [![](https://visitcount.itsvg.in/api?id=ashikur-rahman-programmer&icon=0&color=0)](https://visitcount.itsvg.in)
 
