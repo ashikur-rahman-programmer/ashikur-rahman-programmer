@@ -3,9 +3,9 @@
   <img src="./cover%20photo.png" alt="Ashikur Rahman web developer cover photo" />
 </p>
 
-<!-- Typing Animation -->
+<!-- Animated Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Frontend+Specialist;Building+Modern+Web+Apps;Future+Full+Stack+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Md+Ashikur+Rahman;Frontend+Developer+|+MERN+Stack+Enthusiast;I+build+modern+and+scalable+web+apps;I+specialize+in+React,+Next.js+%26+modern+UI+development;Welcome+to+my+GitHub+Profile!" />
 </p>
 
 ---
@@ -16,6 +16,8 @@
 🚀 Passionate about crafting modern, responsive, and user-friendly web applications with clean and efficient code.
 
 ---
+
+## ✨
 
 # 💫 About Me
 
