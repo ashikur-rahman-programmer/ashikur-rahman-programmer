@@ -17,8 +17,6 @@
 
 ---
 
-## ✨
-
 # 💫 About Me
 
 I’m a passionate frontend developer based in Pabna, Bangladesh. I focus on building **responsive**, **user-friendly**, and **modern web applications**. I enjoy turning ideas into real-world projects and continuously improving my skills.
@@ -88,7 +86,7 @@ Git • GitHub • VS Code • Figma • Pixso
 
 ---
 
-### 🌐 Portfolio Website  
+### ✨ Portfolio Website  
 - 🔗 Live: https://ashikur-rahman-personal-portfolio.netlify.app/  
 - ⚡ Personal portfolio showcasing my skills, projects, and development journey.  
 
