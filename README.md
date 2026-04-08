@@ -29,76 +29,22 @@ I’m a passionate frontend developer based in Pabna, Bangladesh. I focus on bui
 
 ---
 
-## 💻 Skills
-
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🛠️ Tech Stack
 
 ### 🚀 Frontend
 HTML • CSS • Tailwind • JavaScript • React • Next.js  
 
-<br/>
-
 ### ⚙️ Backend
 Node.js • Express.js  
-
-<br/>
 
 ### 🗄️ Database
 MongoDB • MySQL • Firebase  
 
-<br/>
-
 ### 🎨 UI & Libraries
 DaisyUI • React Router • React Toastify  
 
-<br/>
-
 ### 🧰 Tools
 Git • GitHub • VS Code • Figma • Pixso  
-
-</td>
-
-<td width="50%" valign="top" align="center">
-
-### 💻 Technologies
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" /><br/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /><br/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge" /><br/>
-<img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/React%20Toastify-FF6F61?style=for-the-badge" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /><br/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code" /><br/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Pixso-6C63FF?style=for-the-badge" />
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -109,6 +55,33 @@ Git • GitHub • VS Code • Figma • Pixso
 - 🚀 Building scalable and responsive web applications
 
 ---
+
+## 💻 Skills
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/NodeJS-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-a08021.svg?style=for-the-badge&logo=firebase&logoColor=ffcd34" />
+
+</p>
+
+---
+
 
 ## 🧩 Featured Projects
 
