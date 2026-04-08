@@ -189,4 +189,4 @@ Git • GitHub • VS Code • Figma • Pixso
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+<div align="center">⭐ **Thanks for visiting my profile!**</div>
