@@ -58,39 +58,39 @@ Git • GitHub • VS Code • Figma • Pixso
 
 ---
 
-## 🚀 Featured Projects
-
-👉 *(Project links will be added later — keep your repo organized & clean)*
+## 🧩 Featured Projects
 
 ### 🛒 Digital Tools Buying Website  
-- 🔗 Live: *(Add Link)*  
-- 💻 Code: *(Add GitHub Repo)*  
-- 🛠️ Tech: React, Node.js, MongoDB  
-- 📄 Description: A modern e-commerce platform for purchasing digital tools with secure authentication and smooth UI.
+- 🔗 Live: https://digital-tools-buying-website1.netlify.app/  
+- 💻 Code: https://github.com/ashikur-rahman-programmer/Digital-Tools-Buying-Website  
+- ⚡ A React-based platform for browsing and purchasing digital tools with API integration and dynamic UI.  
+
+---
+
+### 📋 Job Application Tracker Website  
+- 🔗 Live: https://ashikur-rahman-programmer.github.io/job-application-tracker-website/  
+- 💻 Code: https://github.com/ashikur-rahman-programmer/job-application-tracker-website  
+- ⚡ Helps users track job applications, status, and progress with a clean UI.  
 
 ---
 
 ### 🤖 AI Model Hub Website  
-- 🔗 Live: *(Add Link)*  
-- 💻 Code: *(Add GitHub Repo)*  
-- 🛠️ Tech: React, API Integration  
-- 📄 Description: A platform showcasing AI models with dynamic data handling and user interaction features.
+- 🔗 Live: https://ai-model-website.netlify.app/  
+- 💻 Code: https://github.com/ashikur-rahman-programmer/ai-model-hub-website  
+- ⚡ Showcases AI models and tools with a modern interface using React and APIs.  
 
 ---
 
-### 🐙 GitHub Issues Tracker Web Application  
-- 🔗 Live: *(Add Link)*  
-- 💻 Code: *(Add GitHub Repo)*  
-- 🛠️ Tech: React, GitHub API  
-- 📄 Description: A tool to track GitHub issues efficiently using GitHub API with real-time updates.
+### 🐞 GitHub Issues Tracker Web Application  
+- 🔗 Live: https://github-issues-tracker-web-application.netlify.app/  
+- 💻 Code: https://github.com/ashikur-rahman-programmer/github-issues-tracker-web-application  
+- ⚡ Tracks GitHub issues using API and displays them in a structured UI.  
 
 ---
 
-### 💼 Job Application Tracker Website  
-- 🔗 Live: *(Add Link)*  
-- 💻 Code: *(Add GitHub Repo)*  
-- 🛠️ Tech: MERN Stack  
-- 📄 Description: A full-stack application to manage and track job applications with status updates and dashboard features.
+### 🌐 Portfolio Website  
+- 🔗 Live: https://ashikur-rahman-personal-portfolio.netlify.app/  
+- ⚡ Personal portfolio showcasing my skills, projects, and development journey.  
 
 ---
 
@@ -160,11 +160,6 @@ Git • GitHub • VS Code • Figma • Pixso
 
 ![](https://github-profile-trophy.vercel.app/?username=ashikur-rahman-programmer&theme=radical&no-bg=true&margin-w=4)
 
----
-
-## 🌐 Portfolio
-
-🚀 Coming Soon...
 
 ---
 
@@ -176,6 +171,14 @@ Git • GitHub • VS Code • Figma • Pixso
 
 ---
 
+## ⚡ Extra
+
+✨ I specialize in React, building scalable and modern UI  
+✨ I focus on clean code, performance, and user experience  
+✨ Currently working on more advanced full-stack projects  
+
+---
+
 ## ⚡ Fun Fact
 
 💡 I love turning ideas into real-world web applications and continuously learning new technologies.
@@ -184,3 +187,7 @@ Git • GitHub • VS Code • Figma • Pixso
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+
+---
+
+⭐ **Thanks for visiting my profile!**
