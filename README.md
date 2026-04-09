@@ -147,11 +147,23 @@ Git • GitHub • VS Code • Figma • Pixso
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Statistics & Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashikur-rahman-programmer&show_icons=true&theme=radical&hide_border=false&count_private=true" width="48%" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikur-rahman-programmer&layout=compact&theme=radical&hide_border=false" width="45%" alt="Top Languages" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=ashikur-rahman-programmer&theme=dark&hide_border=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=ashikur-rahman-programmer&theme=dark)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashikur-rahman-programmer&layout=compact&theme=dark)  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashikur-rahman-programmer&theme=radical&hide_border=false" width="94%" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashikur-rahman-programmer&theme=radical&bg_color=0D1117&hide_border=false" width="100%" />
+</p>
 
 ---
 
