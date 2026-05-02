@@ -114,7 +114,7 @@ Git • GitHub • VS Code • Figma • Pixso
 ---
 
 ### ✨ Portfolio Website  
-- 🔗 Live: https://ashikur-rahman-personal-portfolio.netlify.app/  
+- 🔗 Live: https://ashikur-rahman.vercel.app/
 - ⚡ Personal portfolio showcasing my skills, projects, and development journey.  
 
 ---
