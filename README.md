@@ -38,10 +38,10 @@ HTML • CSS • Tailwind • JavaScript • React • Next.js
 Node.js • Express.js  
 
 ### 🗄️ Database
-MongoDB • MySQL • Firebase  
+MongoDB • NoSQLBooster • Firebase  
 
 ### 🎨 UI & Libraries
-DaisyUI • React Router • React Toastify  
+DaisyUI • Hero UI • Shadcn UI • React Router • React Toastify  
 
 ### 🧰 Tools
 Git • GitHub • VS Code • Figma • Pixso  
