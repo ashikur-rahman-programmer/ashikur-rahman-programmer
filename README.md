@@ -13,7 +13,7 @@
 # **Md Ashikur Rahman**  
 ### Frontend Developer | MERN Stack Enthusiast | Building Scalable Web Applications  
 
-🚀 Passionate about crafting modern, responsive, and user-friendly web applications with clean and efficient code.
+Passionate about crafting modern, responsive, and user-friendly web applications with clean and efficient code.
 
 ---
 
