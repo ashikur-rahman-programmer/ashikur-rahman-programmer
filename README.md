@@ -49,24 +49,43 @@ Monorepo Architecture • Git • GitHub • VS Code • Postman • Vercel • 
 
 <div align="center">
 
+<!-- Frontend & Languages -->
 <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 
 <br/>
 
+<!-- Styling & State/Data Fetching -->
+<img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/HeroUI-%23000000.svg?style=for-the-badge" />&nbsp;
+<img src="https://img.shields.io/badge/TanStack-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Zustand-%23443e38.svg?style=for-the-badge" />
+
+<br/>
+
+<!-- Backend & Databases -->
 <img src="https://img.shields.io/badge/NodeJS-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-a08021.svg?style=for-the-badge&logo=firebase&logoColor=ffcd34" />
 
 <br/>
 
+<!-- Auth & APIs -->
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=json-web-tokens" />&nbsp;
+<img src="https://img.shields.io/badge/Zod-%233E67B1.svg?style=for-the-badge&logo=zod&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Stripe-5469D4?style=for-the-badge&logo=stripe&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Firebase-a08021.svg?style=for-the-badge&logo=firebase&logoColor=ffcd34" />&nbsp;
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+<br/>
+
+<!-- Tools & Deployment -->
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 
 </div>
 
